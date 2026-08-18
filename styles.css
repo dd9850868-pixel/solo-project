@@ -103,7 +103,7 @@ body {
   background-position: center;
 }
 .shitta-text {
-  color: #1f1711;
+  color: #36291e;
 
 }
 .stadium-text {
@@ -160,7 +160,7 @@ body {
  #dyk-1, #text-1 {
   width: 400px;
   font-family: arial;
-  color: rgb(92, 80, 59);
+ color: rgb(39, 33, 23);
   font-size: 15px;
  }
  #text-1 {
@@ -202,7 +202,7 @@ body {
 #dyk-2, #text-2 {
    width: 400px;
   font-family: arial;
-  color: rgb(92, 80, 59);
+  color: rgb(39, 33, 23);
   font-size: 15px;
 
 }
@@ -226,7 +226,7 @@ body {
 #dyk-3, #text-3 {
   width: 400px;
   font-family: arial;
-  color: rgb(92, 80, 59);
+  color: rgb(39, 33, 23);
   font-size: 15px;
 }
 #btn3 {
